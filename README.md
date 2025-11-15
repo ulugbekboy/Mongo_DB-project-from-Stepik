@@ -1,7 +1,7 @@
 # MongoDB Online Shop - Database Implementation
 
 A MongoDB database project demonstrating schema design, indexing, CRUD operations, and aggregation pipelines using Python & PyMongo.
-
+The Project was made for the NoSQL in STEPIK online learning platform
 ## Tech Stack
 
 - **Database**: MongoDB 6.0+
